@@ -13,4 +13,8 @@ default risk.
 ## Datasets
 
 - **Taiwanese Bankruptcy Prediction** — https://doi.org/10.24432/C5004D
-- **Default of Credit Card Clients** —
+- **Default of Credit Card Clients** — https://doi.org/10.24432/C55S3H
+
+## Author
+
+Shuqin Ouyang
