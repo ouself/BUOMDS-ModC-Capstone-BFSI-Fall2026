@@ -27,7 +27,7 @@ Data files are not included. Download them from UCI and place them in [folder na
 | 9 | Gradient boosting |
 | 10 | K-Means clustering |
 | 11 | DBSCAN and hierarchical clustering |
-| 13 | [one line on Week 13] |
+| 13 | Naive Bayes |
 
 ## Key results
 - Failures are rare, so models were scored with F1 against an all-failure baseline instead of accuracy.
