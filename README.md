@@ -42,3 +42,15 @@ Results come from single train/test splits in places, the bankruptcy test set ha
 
 ## Running the notebooks
 Python with pandas, NumPy, scikit-learn, statsmodels, matplotlib. Open the notebooks in order and update the data paths.
+
+---
+## Copyright and use
+© 2026 Shuqin Ouyang. All rights reserved.
+
+This repository is shared for viewing as part of my portfolio. Please do not copy, redistribute, or submit this work as your own, in whole or in part, without my written permission.
+
+## Data
+The datasets are not mine and are not included. They come from the UCI Machine Learning Repository and are used under their own terms (see the links above).
+
+## Academic integrity
+This is my own coursework. If you are a student, please do your own work and use this only for reference.
